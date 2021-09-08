@@ -1,5 +1,5 @@
 <html>
-<head><title> Minha Página</titlr></head>
+<head><title> Minha Página</title></head>
 <body>
 <h1>> Esse é meu site</h1>
 <p>Seja bem-vindo</p>
